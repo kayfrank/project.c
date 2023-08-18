@@ -1,1 +1,1 @@
-# project.c
+QUIZ PROJECT:quiz project that allows you to answer 3 questions if a question is answered correctly ,click enter for the next question if next answer is wrong it tells you incorrect answer and automatically takes you to the next question.
